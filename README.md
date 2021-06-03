@@ -1,5 +1,6 @@
 
 Estimate pi
+
 Using the Wallis formula
 Background
 The Wallis Formula can be used to approximate the value of the constant 𝛑. The formula is like so
